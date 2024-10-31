@@ -12,6 +12,13 @@ Sea++ is a graphical user interface (GUI) application designed with Qt that feat
 - **Background Widget**: A dedicated background widget with a similarly styled label.
 
 ## UI Design
+- **Sea++ Splash Screen**
+![Sea++ Splash](https://github.com/matternstsr/atlas-HackSprintCPP/blob/668ad0a2e3a761eeac9004cdc1bf68eae9e82dc4/sea%2B%2B/Seaplusplus_Splash_Screen.png)
+- **Sea++ Game Screen**
+![Sea++ Game](https://github.com/matternstsr/atlas-HackSprintCPP/blob/668ad0a2e3a761eeac9004cdc1bf68eae9e82dc4/sea%2B%2B/Seaplusplus_game_Screen.png)
+- **Sea++ Score Screen**
+![Sea++ Score](https://github.com/matternstsr/atlas-HackSprintCPP/blob/668ad0a2e3a761eeac9004cdc1bf68eae9e82dc4/sea%2B%2B/Seaplusplus_Score_Screen.png)
+
 The UI is designed with the following elements:
 
 - **Dialog Properties**
