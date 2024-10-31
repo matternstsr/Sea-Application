@@ -3,7 +3,16 @@
 ![Sea++ Logo](https://github.com/TravisAdamson/atlas-HackSprintCPP/blob/9aa445bb1860eecc5fb94f094605e44309bf70c6/sea%2B%2B/gif/Sea%2B%2B_Logo_Vignette.png)
 
 ## Overview
-Sea++ is a graphical user interface (GUI) application designed with Qt that features a dialog window with interactive buttons and a dynamic layout. This application is structured using Qt’s framework, providing a visually appealing and user-friendly interface.
+Sea++ is an innovative graphical user interface (GUI) application created using the Qt framework. The app features an interactive dialog window that enhances user engagement with beautifully styled buttons and a dynamic layout. The vision behind Sea++ was to develop an engaging platform for users to explore a whimsical underwater adventure.
+
+## About the Developer
+Hello! I'm [Matthew Ernst](https://matternst.com/), a passionate software developer with a love for creating interactive applications. You can also find me on [Twitter](https://x.com/MatthewErn46471)  or check out my work in my [Portfolio Project repository](https://github.com/matternstsr).
+
+## Project Story
+
+The journey of developing Sea++ began as a personal challenge to create a fun and visually engaging application that combines my love for programming with a theme of waves. I wanted to create something not just functional but also delightful to use. This project involved extensive research into GUI design and learning the intricacies of the Qt framework.
+
+During the development, I faced several challenges, especially with ensuring that the layout adapted well across different screen sizes and resolutions. However, the joy of overcoming these hurdles and seeing the application come to life made every effort worthwhile.
 
 ## Features
 - **Dialog Window**: A central `QDialog` window with a customized appearance and layout.
