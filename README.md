@@ -159,7 +159,7 @@ For any questions or support, please contact us:
    Set QT_QPA_PLATFORM_PLUGIN_PATH if you encounter issues.
 
 #### Linux
-1. **Download the Qt Installer**
+1. **DownloImplemented walk the plank featuread the Qt Installer**
    Download the Linux installer from the Qt website.
 
 2. **Make the Installer Executable**
